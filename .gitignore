@@ -1,0 +1,12 @@
+
+# Archivos de compilación
+**/target/
+**/.idea/
+**/.vscode/
+**/out/
+*.class
+*.jar
+*.war
+*.iml
+.DS_Store
+
